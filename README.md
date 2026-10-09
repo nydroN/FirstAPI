@@ -39,4 +39,4 @@ API uç noktalarını test etmek ve incelemek için projeyi ayağa kaldırdıkta
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/nydroN/FirstProject.git](https://github.com/nydroN/FirstProject.git)
+   git clone [https://github.com/nydroN/FirstAPI.git](https://github.com/nydroN/FirstAPI.git)
