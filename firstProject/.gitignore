@@ -1,0 +1,22 @@
+# HELP
+# https://help.github.com/ignore-files/
+
+# Maven (Derlenmiş dosyalar ve build çıktıları - EN ÖNEMLİSİ)
+target/
+!.mvn/wrapper/maven-wrapper.jar
+log/
+logs/
+
+# IntelliJ IDEA (Sana özel editör ayarları GitHub'a gitmemeli)
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Java (Derlenmiş class dosyaları)
+*.class
+
+# Mac/Windows sistem çöpleri
+.DS_Store
+Thumbs.db
